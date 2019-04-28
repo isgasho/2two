@@ -12,6 +12,7 @@
 ***
 使用技术
 
+- micro
 - gin
 - mysql
 - redis
