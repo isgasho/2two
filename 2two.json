@@ -1,0 +1,40 @@
+{
+  "name": "2two",
+  "description": "2two是一个适合于程序员💑之间的即时聊天工具，主要是聊天记录啥的万一泄漏就不好了，用这个可以自己搭建一个系统。",
+  "version": "0.1.0",
+  "author": [
+    {
+      "name":"googege",
+      "email": "imgoogege@gmail.com",
+      "github": "https://github.com/googege",
+      "weblite": "https://nudao.xyz"
+    }
+  ],
+  "programming-language": [
+    "GO",
+    "JavaScript",
+    "CSS3",
+    "HTML5",
+    "SQL"
+  ],
+  "DB":[
+    "MySQL",
+    "Redis"
+  ],
+  "technology": [
+    "gin",
+    "micro",
+    "bootstrap",
+    "rpc",
+    "websocket",
+    "gob",
+    "json",
+    "markdown",
+    "gocolly",
+    "chromedp",
+    "fastjson",
+    "glog",
+    "cobra",
+    "github_flavored_markdown"
+  ]
+}
